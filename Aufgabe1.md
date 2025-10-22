@@ -11,6 +11,6 @@ Im folgenden könnt ihr dann wieder das System auswählen. Diesmal nutzen wir de
 
 ---
 
-## Teil 2: Schaut euich die App an.
-Startet die App und schaut sie euch an. Navigiert dafür entweder wieder über die konsole, oder wählt per Rechtsklick auf der Webapp die Aktion Preview Application. Navigiert durch die App und schaut sie euch an. 
-Zusätzlich könnt ihr weider über Rechtsklick die Page Map anzeigen lassen. Dort seht ihr die einzelnen Felder und könnt auch Änderungen vornehmen.
+## Teil 2: Schaut euch die App an.
+Startet die App und schaut sie euch an. Navigiert dafür entweder wieder über die Konsole und startet mitels npm run, oder wählt per Rechtsklick auf der Webapp die Aktion Preview Application aus. Navigiert durch die App und schaut sie euch an. 
+Zusätzlich könnt ihr wieder über Rechtsklick die Page Map anzeigen lassen. Dort seht ihr die einzelnen Felder und könnt auch Änderungen vornehmen.
