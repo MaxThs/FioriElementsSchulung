@@ -14,7 +14,7 @@ Danach wählt ihr die Entität Categorie aus.
 
 ## Teil 2: Leere Kachel hinzufügen
 
-Navigiert per Rechtsklick auf die webapp in das Tool Guided Development. Dort Wählt ihr den Guide um ein Custom Panel hinzuzufügen. Gebt Namen ein. Diese solltet ihr sinnvoll bennen, dies ist für diese Schulung nicht relevant, daher gebt einfach Fragement udn Controller ein.
+Navigiert per Rechtsklick auf die webapp in das Tool Guided Development. Dort Wählt ihr den Guide um eine Custom Card hinzuzufügen. Geht oben auf den ersten Schritt oder drückt auf den button Start Guide. Gebt einen Foldernamen, eine Card ID, sowie Controller und Fragmentnamen ein. Diese solltet ihr normalerweiße sinnvoll bennen, dies ist für diese Schulung jedoch nicht relevant, daher gebt einfach in jedes Feld irgendwas ein. Drückt danach auf Create or update Files and insert snippets.
 Das Fragement entspricht dem View das ihr in Schulung 5 entwickelt habt. In den Controller könnt ihr wie vorher Javascript verwenden. 
 
 ---
