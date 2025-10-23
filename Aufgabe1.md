@@ -6,8 +6,11 @@ Als erste Aufgabe werdet ihr eine List View anlegen und erweitern.
 
 ## Teil 1: List View anlegen
 
-Geht in euer BAS und erstellt ein neues Projekt mit Template. Wählt wieder Fiori Generator aus, nur wählt ihr danach nicht eine Freestyle App aus indem ihr das Basic Layout verwendet, sondenr nutzt den Floorplan List Report Page.
-Im folgenden könnt ihr dann wieder das System auswählen. Diesmal nutzen wir den Odata ZSEPMRA_PROD_MAN. Als Entity könnt ihr einfach das Produkt SEPMRA_C_PD_PRODUCT auswählen. Nutzt eine Responsive Table.
+Geht in euer BAS und erstellt ein neues Projekt mit Template. Wählt wieder Fiori Generator aus, nur wählt ihr danach <u>nicht</u> eine Freestyle App aus indem ihr das Basic Layout verwendet, sondenr nutzt den Floorplan List Report Page.
+Als OData nehmen wir diesmal keinen vom System, sondern wählen einen online verfügbaren Odata aus. Dafür verbindet ihr euch nicht zum System, sondern wählt den zweiten Punkt aus und gebt folgenden Link ein:
+https://services.odata.org/V2/Northwind/Northwind.svc/.
+Als Entität könnt ihr Categorie verwenden, aber ihr könnt auch gerne andere Entitäten verwenden.
+Nutzt eine Responsive Table.
 
 ---
 
