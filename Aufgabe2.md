@@ -6,8 +6,9 @@ Als nächstes werden wir eine analytische App erstellen.
 
 ## Teil 1: Analytische App erstellen
 
-Erstellt ein neues Projekt mit Template und navigiert zu den Floorplans. Dort wählt ihr nun Analytical List Page aus. Verbindet euch mit dem System und wählt den OData ZSEPMRA_SO_MAN aus. 
-Nehmt anschließend die Entität SEPMRA_C_SalesOrder sowie Analytical Table.
+Erstellt ein neues Projekt mit Template und navigiert zu den Floorplans. Dort wählt ihr nun Analytical List Page aus. Als OData nehmen wir diesmal keinen vom System, sondern wählen einen online verfügbaren Odata aus. Dafür verbindet ihr euch nicht zum System, sondern wählt den zweiten Punkt aus und gebt folgenden Link ein:
+https://services.odata.org/V2/Northwind/Northwind.svc/.
+Als Entität könnt ihr Categorie verwenden, aber ihr könnt auch gerne andere Entitäten verwenden. 
 
 ---
 
